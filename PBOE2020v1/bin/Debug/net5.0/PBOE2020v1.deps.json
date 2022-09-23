@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PBOE2020v1/1.0.0": {
+        "runtime": {
+          "PBOE2020v1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PBOE2020v1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

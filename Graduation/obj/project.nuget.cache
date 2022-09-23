@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "asfO3y5i5GQQGfQiD/XPSjcD2hW9qpYG/lzilbZR0v9UkdAniDsYsPFc/t/fLAm6OAs/4b6zjvKbkqy2xtMf9g==",
+  "success": true,
+  "projectFilePath": "/Users/wizard/FromGitHub/sf/Graduation/Graduation.csproj",
+  "expectedPackageFiles": [
+    "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

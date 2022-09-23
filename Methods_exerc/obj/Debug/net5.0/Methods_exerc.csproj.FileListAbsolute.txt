@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\bin\Debug\net5.0\Methods_exerc.exe
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\bin\Debug\net5.0\Methods_exerc.deps.json
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\bin\Debug\net5.0\Methods_exerc.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\bin\Debug\net5.0\Methods_exerc.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\bin\Debug\net5.0\Methods_exerc.dll
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\bin\Debug\net5.0\Methods_exerc.pdb
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\Methods_exerc.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\Methods_exerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\Methods_exerc.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\Methods_exerc.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\Methods_exerc.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\Methods_exerc.dll
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\refint\Methods_exerc.dll
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\Methods_exerc.pdb
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\Methods_exerc.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\Methods_exerc\obj\Debug\net5.0\ref\Methods_exerc.dll

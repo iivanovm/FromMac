@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\bin\Debug\net5.0\UnFinishTaskPBOE.exe
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\bin\Debug\net5.0\UnFinishTaskPBOE.deps.json
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\bin\Debug\net5.0\UnFinishTaskPBOE.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\bin\Debug\net5.0\UnFinishTaskPBOE.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\bin\Debug\net5.0\UnFinishTaskPBOE.dll
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\bin\Debug\net5.0\UnFinishTaskPBOE.pdb
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\UnFinishTaskPBOE.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\UnFinishTaskPBOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\UnFinishTaskPBOE.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\UnFinishTaskPBOE.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\UnFinishTaskPBOE.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\UnFinishTaskPBOE.dll
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\refint\UnFinishTaskPBOE.dll
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\UnFinishTaskPBOE.pdb
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\UnFinishTaskPBOE.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\UnFinishTaskPBOE\obj\Debug\net5.0\ref\UnFinishTaskPBOE.dll

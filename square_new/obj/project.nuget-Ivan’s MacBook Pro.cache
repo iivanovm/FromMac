@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nx6rRv3OyMppc1VUIJUxG66OpqNa9jCzLbls5dZ3xFM1fyw3kPbHCr3YN74qtUh4As6gYk4VAS9bAZrq1blUwQ==",
+  "success": true,
+  "projectFilePath": "/Users/wizard/Library/CloudStorage/OneDrive-Personal/Csoftuni/square_new/square_new.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/wizard/Library/CloudStorage/OneDrive-Personal/Csoftuni/square_new/obj/project.nuget.cache : Operation timed out : '/Users/wizard/Library/CloudStorage/OneDrive-Personal/Csoftuni/square_new/obj/project.nuget.cache'"
+    }
+  ]
+}

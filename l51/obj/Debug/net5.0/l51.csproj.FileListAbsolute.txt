@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\l51\bin\Debug\net5.0\l51.exe
+C:\Users\admin\OneDrive\Csoftuni\l51\bin\Debug\net5.0\l51.deps.json
+C:\Users\admin\OneDrive\Csoftuni\l51\bin\Debug\net5.0\l51.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\l51\bin\Debug\net5.0\l51.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\l51\bin\Debug\net5.0\l51.dll
+C:\Users\admin\OneDrive\Csoftuni\l51\bin\Debug\net5.0\l51.pdb
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\l51.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\l51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\l51.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\l51.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\l51.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\l51.dll
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\refint\l51.dll
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\l51.pdb
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\l51.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\l51\obj\Debug\net5.0\ref\l51.dll

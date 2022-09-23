@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\L34\bin\Debug\net5.0\L34.exe
+C:\Users\admin\OneDrive\Csoftuni\L34\bin\Debug\net5.0\L34.deps.json
+C:\Users\admin\OneDrive\Csoftuni\L34\bin\Debug\net5.0\L34.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\L34\bin\Debug\net5.0\L34.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\L34\bin\Debug\net5.0\L34.dll
+C:\Users\admin\OneDrive\Csoftuni\L34\bin\Debug\net5.0\L34.pdb
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\L34.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\L34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\L34.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\L34.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\L34.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\L34.dll
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\refint\L34.dll
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\L34.pdb
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\L34.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\L34\obj\Debug\net5.0\ref\L34.dll

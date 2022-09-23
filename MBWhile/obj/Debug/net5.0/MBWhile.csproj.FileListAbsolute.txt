@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\bin\Debug\net5.0\MBWhile.exe
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\bin\Debug\net5.0\MBWhile.deps.json
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\bin\Debug\net5.0\MBWhile.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\bin\Debug\net5.0\MBWhile.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\bin\Debug\net5.0\MBWhile.dll
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\bin\Debug\net5.0\MBWhile.pdb
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\MBWhile.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\MBWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\MBWhile.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\MBWhile.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\MBWhile.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\MBWhile.dll
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\refint\MBWhile.dll
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\MBWhile.pdb
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\MBWhile.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\MBWhile\obj\Debug\net5.0\ref\MBWhile.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPA5LF6C1x4etILseI2uS4NsF+axCRuqB/PST3in5gc6JI7BE3UNTH1t+Pvgdwp2UERZc1lqAt9cllYqfDEp0Q==",
+  "success": true,
+  "projectFilePath": "/Users/wizard/FromGitHub/sf/MyFirstApp/MyFirstApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

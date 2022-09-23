@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\bin\Debug\net5.0\DrawMenuFromList.exe
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\bin\Debug\net5.0\DrawMenuFromList.deps.json
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\bin\Debug\net5.0\DrawMenuFromList.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\bin\Debug\net5.0\DrawMenuFromList.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\bin\Debug\net5.0\DrawMenuFromList.dll
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\bin\Debug\net5.0\DrawMenuFromList.pdb
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\DrawMenuFromList.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\DrawMenuFromList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\DrawMenuFromList.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\DrawMenuFromList.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\DrawMenuFromList.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\DrawMenuFromList.dll
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\refint\DrawMenuFromList.dll
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\DrawMenuFromList.pdb
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\DrawMenuFromList.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\DrawMenuFromList\obj\Debug\net5.0\ref\DrawMenuFromList.dll

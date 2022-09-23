@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H05IM7QQBlQOWW3GSBoJ7rhPDcGeXSERazfeJjY6Esq/KtO6yP1vmNaO9zHwUPm31vdq6I/EwdLG30uDusepjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Csoftuni\\DictTest\\DictTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

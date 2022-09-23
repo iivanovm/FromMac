@@ -1,0 +1,5 @@
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net5.0\MyFirstCA.csproj.AssemblyReference.cache
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net5.0\MyFirstCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net5.0\MyFirstCA.AssemblyInfoInputs.cache
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net5.0\MyFirstCA.AssemblyInfo.cs
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net5.0\MyFirstCA.csproj.CoreCompileInputs.cache

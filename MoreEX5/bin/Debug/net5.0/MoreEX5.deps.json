@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MoreEX5/1.0.0": {
+        "runtime": {
+          "MoreEX5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoreEX5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

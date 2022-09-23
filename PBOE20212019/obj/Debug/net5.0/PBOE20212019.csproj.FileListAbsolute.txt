@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\bin\Debug\net5.0\PBOE20212019.exe
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\bin\Debug\net5.0\PBOE20212019.deps.json
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\bin\Debug\net5.0\PBOE20212019.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\bin\Debug\net5.0\PBOE20212019.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\bin\Debug\net5.0\PBOE20212019.dll
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\bin\Debug\net5.0\PBOE20212019.pdb
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\PBOE20212019.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\PBOE20212019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\PBOE20212019.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\PBOE20212019.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\PBOE20212019.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\PBOE20212019.dll
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\refint\PBOE20212019.dll
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\PBOE20212019.pdb
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\PBOE20212019.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\PBOE20212019\obj\Debug\net5.0\ref\PBOE20212019.dll

@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\bin\Debug\net5.0\Mitem.exe
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\bin\Debug\net5.0\Mitem.deps.json
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\bin\Debug\net5.0\Mitem.runtimeconfig.json
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\bin\Debug\net5.0\Mitem.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\bin\Debug\net5.0\Mitem.dll
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\bin\Debug\net5.0\Mitem.pdb
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\Mitem.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\Mitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\Mitem.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\Mitem.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\Mitem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\Mitem.dll
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\refint\Mitem.dll
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\Mitem.pdb
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\Mitem.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Csoftuni\Mitem\obj\Debug\net5.0\ref\Mitem.dll

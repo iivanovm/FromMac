@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgKeVoqqa44aJz9IiaF533fwiCj6JAlEv3WTCthdC+bXdyDd4rvg/GqMWdW8Ptok/fNiMKB1blhNz74cVZU2ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Csoftuni\\SafePasswordsGenerator\\SafePasswordsGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

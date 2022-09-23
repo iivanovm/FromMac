@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\DictTest\bin\Debug\net5.0\DictTest.exe
+C:\Users\admin\OneDrive\Csoftuni\DictTest\bin\Debug\net5.0\DictTest.deps.json
+C:\Users\admin\OneDrive\Csoftuni\DictTest\bin\Debug\net5.0\DictTest.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\DictTest\bin\Debug\net5.0\DictTest.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\DictTest\bin\Debug\net5.0\DictTest.dll
+C:\Users\admin\OneDrive\Csoftuni\DictTest\bin\Debug\net5.0\DictTest.pdb
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\DictTest.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\DictTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\DictTest.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\DictTest.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\DictTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\DictTest.dll
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\refint\DictTest.dll
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\DictTest.pdb
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\DictTest.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\DictTest\obj\Debug\net5.0\ref\DictTest.dll

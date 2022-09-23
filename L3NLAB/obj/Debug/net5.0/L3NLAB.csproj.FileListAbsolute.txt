@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\bin\Debug\net5.0\L3NLAB.exe
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\bin\Debug\net5.0\L3NLAB.deps.json
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\bin\Debug\net5.0\L3NLAB.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\bin\Debug\net5.0\L3NLAB.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\bin\Debug\net5.0\L3NLAB.dll
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\bin\Debug\net5.0\L3NLAB.pdb
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\L3NLAB.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\L3NLAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\L3NLAB.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\L3NLAB.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\L3NLAB.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\L3NLAB.dll
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\refint\L3NLAB.dll
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\L3NLAB.pdb
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\L3NLAB.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\L3NLAB\obj\Debug\net5.0\ref\L3NLAB.dll

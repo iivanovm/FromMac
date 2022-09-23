@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\bin\Debug\net5.0\NestetLoops_Exerc.exe
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\bin\Debug\net5.0\NestetLoops_Exerc.deps.json
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\bin\Debug\net5.0\NestetLoops_Exerc.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\bin\Debug\net5.0\NestetLoops_Exerc.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\bin\Debug\net5.0\NestetLoops_Exerc.dll
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\bin\Debug\net5.0\NestetLoops_Exerc.pdb
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\NestetLoops_Exerc.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\NestetLoops_Exerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\NestetLoops_Exerc.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\NestetLoops_Exerc.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\NestetLoops_Exerc.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\NestetLoops_Exerc.dll
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\refint\NestetLoops_Exerc.dll
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\NestetLoops_Exerc.pdb
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\NestetLoops_Exerc.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\NestetLoops_Exerc\obj\Debug\net5.0\ref\NestetLoops_Exerc.dll

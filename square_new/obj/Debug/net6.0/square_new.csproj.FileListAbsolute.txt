@@ -1,0 +1,15 @@
+D:\C#\Project\Csoftuni\square_new\bin\Debug\net6.0\square_new.exe
+D:\C#\Project\Csoftuni\square_new\bin\Debug\net6.0\square_new.deps.json
+D:\C#\Project\Csoftuni\square_new\bin\Debug\net6.0\square_new.runtimeconfig.json
+D:\C#\Project\Csoftuni\square_new\bin\Debug\net6.0\square_new.dll
+D:\C#\Project\Csoftuni\square_new\bin\Debug\net6.0\square_new.pdb
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\square_new.csproj.AssemblyReference.cache
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\square_new.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\square_new.AssemblyInfoInputs.cache
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\square_new.AssemblyInfo.cs
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\square_new.csproj.CoreCompileInputs.cache
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\square_new.dll
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\refint\square_new.dll
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\square_new.pdb
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\square_new.genruntimeconfig.cache
+D:\C#\Project\Csoftuni\square_new\obj\Debug\net6.0\ref\square_new.dll

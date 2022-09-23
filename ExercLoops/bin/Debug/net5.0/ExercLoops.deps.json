@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercLoops/1.0.0": {
+        "runtime": {
+          "ExercLoops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercLoops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

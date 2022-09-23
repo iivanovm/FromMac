@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ViIZv63ArmihS/gVKAlc6KpU6aujv3kO1KeubIonIu+wKRM8iSNzhWbPU0E6qf7NFydiGqD1eidhvhbOZ2Dpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Csoftuni\\NastedLoops\\NastedLoops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

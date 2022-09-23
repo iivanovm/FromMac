@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3QyTDGZ5eYgSfs90hZl2iRRs/QHT+BcFHXHM1DhlC6anu7VyaRcB0BhXJ97Ujehbg7DmWUdA5292zZHiWxZ+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Csoftuni\\Mitem\\Mitem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

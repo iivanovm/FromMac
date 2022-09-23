@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0NAYcmvlna7Qg4JsBYFIV9qGjUCp7vZQlDGaTktu10l1zqX7EU2++JS3XT/s+qhnb3vHjD/fxxlEUQgk6wUYA==",
+  "success": true,
+  "projectFilePath": "/Users/wizard/FromGitHub/sf/power of2/power of2.csproj",
+  "expectedPackageFiles": [
+    "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

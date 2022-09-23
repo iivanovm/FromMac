@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MIH8T8sWqgC/AqyJR+qfunGv5ZDxbasbJ6UzqwVVO8JXAiZxeZv4OyiSf1BK2NGD4Liw6n+nq+WICoWg+BYkSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Csoftuni\\PBOE2020\\PBOE2020.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

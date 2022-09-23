@@ -1,0 +1,16 @@
+F:\GitHubRepo\LastChngbackup\MoreEX5\bin\Debug\net5.0\MoreEX5.exe
+F:\GitHubRepo\LastChngbackup\MoreEX5\bin\Debug\net5.0\MoreEX5.deps.json
+F:\GitHubRepo\LastChngbackup\MoreEX5\bin\Debug\net5.0\MoreEX5.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\MoreEX5\bin\Debug\net5.0\MoreEX5.runtimeconfig.dev.json
+F:\GitHubRepo\LastChngbackup\MoreEX5\bin\Debug\net5.0\MoreEX5.dll
+F:\GitHubRepo\LastChngbackup\MoreEX5\bin\Debug\net5.0\MoreEX5.pdb
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\MoreEX5.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\MoreEX5.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\MoreEX5.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\MoreEX5.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\MoreEX5.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\MoreEX5.dll
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\refint\MoreEX5.dll
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\MoreEX5.pdb
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\MoreEX5.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\MoreEX5\obj\Debug\net5.0\ref\MoreEX5.dll

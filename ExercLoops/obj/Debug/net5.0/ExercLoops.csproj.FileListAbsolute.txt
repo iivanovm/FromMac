@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\bin\Debug\net5.0\ExercLoops.exe
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\bin\Debug\net5.0\ExercLoops.deps.json
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\bin\Debug\net5.0\ExercLoops.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\bin\Debug\net5.0\ExercLoops.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\bin\Debug\net5.0\ExercLoops.dll
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\bin\Debug\net5.0\ExercLoops.pdb
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ExercLoops.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ExercLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ExercLoops.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ExercLoops.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ExercLoops.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ExercLoops.dll
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\refint\ExercLoops.dll
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ExercLoops.pdb
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ExercLoops.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\ExercLoops\obj\Debug\net5.0\ref\ExercLoops.dll

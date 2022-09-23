@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcG/U0xdYdLIMqlKOE+MQDLyUe9oL374o3E4A0A7pJK7h0v+k4u90YgGW3irIba11WEQICjqmbCGpPAtGzb4vA==",
+  "success": true,
+  "projectFilePath": "/Users/wizard/FromGitHub/sf/L2FUND/L2FUND.csproj",
+  "expectedPackageFiles": [
+    "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

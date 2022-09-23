@@ -1,0 +1,16 @@
+F:\GitHubRepo\LastChngbackup\Methods_Lab\bin\Debug\net5.0\Methods_Lab.exe
+F:\GitHubRepo\LastChngbackup\Methods_Lab\bin\Debug\net5.0\Methods_Lab.deps.json
+F:\GitHubRepo\LastChngbackup\Methods_Lab\bin\Debug\net5.0\Methods_Lab.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\Methods_Lab\bin\Debug\net5.0\Methods_Lab.runtimeconfig.dev.json
+F:\GitHubRepo\LastChngbackup\Methods_Lab\bin\Debug\net5.0\Methods_Lab.dll
+F:\GitHubRepo\LastChngbackup\Methods_Lab\bin\Debug\net5.0\Methods_Lab.pdb
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\Methods_Lab.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\Methods_Lab.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\Methods_Lab.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\Methods_Lab.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\Methods_Lab.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\Methods_Lab.dll
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\refint\Methods_Lab.dll
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\Methods_Lab.pdb
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\Methods_Lab.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\Methods_Lab\obj\Debug\net5.0\ref\Methods_Lab.dll

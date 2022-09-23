@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BydXcjeUK4HKNQP86RNyTNl+aZRAerQvD13KVjHxCCCrjwDv1+QCw/YIjoE2oFlx5gHVd5CuFc7h0rFYJJUAxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Csoftuni\\L2FUND\\L2FUND.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

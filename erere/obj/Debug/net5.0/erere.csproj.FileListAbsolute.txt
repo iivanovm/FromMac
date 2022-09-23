@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\erere\bin\Debug\net5.0\erere.exe
+C:\Users\admin\OneDrive\Csoftuni\erere\bin\Debug\net5.0\erere.deps.json
+C:\Users\admin\OneDrive\Csoftuni\erere\bin\Debug\net5.0\erere.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\erere\bin\Debug\net5.0\erere.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\erere\bin\Debug\net5.0\erere.dll
+C:\Users\admin\OneDrive\Csoftuni\erere\bin\Debug\net5.0\erere.pdb
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\erere.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\erere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\erere.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\erere.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\erere.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\erere.dll
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\refint\erere.dll
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\erere.pdb
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\erere.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\erere\obj\Debug\net5.0\ref\erere.dll

@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\bin\Debug\net5.0\MB_LOOP.exe
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\bin\Debug\net5.0\MB_LOOP.deps.json
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\bin\Debug\net5.0\MB_LOOP.runtimeconfig.json
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\bin\Debug\net5.0\MB_LOOP.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\bin\Debug\net5.0\MB_LOOP.dll
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\bin\Debug\net5.0\MB_LOOP.pdb
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\MB_LOOP.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\MB_LOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\MB_LOOP.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\MB_LOOP.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\MB_LOOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\MB_LOOP.dll
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\refint\MB_LOOP.dll
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\MB_LOOP.pdb
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\MB_LOOP.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Csoftuni\MB_LOOP\obj\Debug\net5.0\ref\MB_LOOP.dll

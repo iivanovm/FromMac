@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dVtv2pdQw30qS02tSwhSh4NTsnmXr8cO+uQkILdYbV2xVuuRz14pRlRZzogKu3m7qEvjdo1mcaB5yAOrm+7dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Csoftuni\\DrawCoins_result\\DrawCoins_result.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

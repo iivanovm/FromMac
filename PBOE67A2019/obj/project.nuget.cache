@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2Ue1R5G3ghJBuQeEO4O89wlNFxgZYz70C1C3QgO+pMMMIhu1P3+u3zBvIkQcoPR+mAFdpC4EQIqDe4LvgddeA==",
+  "success": true,
+  "projectFilePath": "/Users/wizard/FromGitHub/sf/PBOE67A2019/PBOE67A2019.csproj",
+  "expectedPackageFiles": [
+    "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

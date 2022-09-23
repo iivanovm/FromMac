@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mLENP/2yxCkeHGxrlNexJG2x8IPfXif5ugFNloRb9TUOrGtrWpGeb8H+8TwHrK57yDUvR0W18Ck0QS99zp2XHQ==",
+  "success": true,
+  "projectFilePath": "/Users/wizard/FromGitHub/sf/Mitem/Mitem.csproj",
+  "expectedPackageFiles": [
+    "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/wizard/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\C#\Project\Csoftuni\MyFirstCA\bin\Debug\net6.0\MyFirstCA.exe
+D:\C#\Project\Csoftuni\MyFirstCA\bin\Debug\net6.0\MyFirstCA.deps.json
+D:\C#\Project\Csoftuni\MyFirstCA\bin\Debug\net6.0\MyFirstCA.runtimeconfig.json
+D:\C#\Project\Csoftuni\MyFirstCA\bin\Debug\net6.0\MyFirstCA.dll
+D:\C#\Project\Csoftuni\MyFirstCA\bin\Debug\net6.0\MyFirstCA.pdb
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\MyFirstCA.csproj.AssemblyReference.cache
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\MyFirstCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\MyFirstCA.AssemblyInfoInputs.cache
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\MyFirstCA.AssemblyInfo.cs
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\MyFirstCA.csproj.CoreCompileInputs.cache
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\MyFirstCA.dll
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\refint\MyFirstCA.dll
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\MyFirstCA.pdb
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\MyFirstCA.genruntimeconfig.cache
+D:\C#\Project\Csoftuni\MyFirstCA\obj\Debug\net6.0\ref\MyFirstCA.dll

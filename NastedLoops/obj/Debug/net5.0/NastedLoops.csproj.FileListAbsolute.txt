@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\bin\Debug\net5.0\NastedLoops.exe
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\bin\Debug\net5.0\NastedLoops.deps.json
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\bin\Debug\net5.0\NastedLoops.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\bin\Debug\net5.0\NastedLoops.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\bin\Debug\net5.0\NastedLoops.dll
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\bin\Debug\net5.0\NastedLoops.pdb
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\NastedLoops.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\NastedLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\NastedLoops.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\NastedLoops.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\NastedLoops.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\NastedLoops.dll
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\refint\NastedLoops.dll
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\NastedLoops.pdb
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\NastedLoops.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\NastedLoops\obj\Debug\net5.0\ref\NastedLoops.dll

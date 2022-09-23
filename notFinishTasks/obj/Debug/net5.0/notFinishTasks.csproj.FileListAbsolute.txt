@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\bin\Debug\net5.0\notFinishTasks.exe
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\bin\Debug\net5.0\notFinishTasks.deps.json
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\bin\Debug\net5.0\notFinishTasks.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\bin\Debug\net5.0\notFinishTasks.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\bin\Debug\net5.0\notFinishTasks.dll
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\bin\Debug\net5.0\notFinishTasks.pdb
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\notFinishTasks.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\notFinishTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\notFinishTasks.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\notFinishTasks.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\notFinishTasks.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\notFinishTasks.dll
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\refint\notFinishTasks.dll
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\notFinishTasks.pdb
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\notFinishTasks.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\notFinishTasks\obj\Debug\net5.0\ref\notFinishTasks.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DrawCoins_result/1.0.0": {
+        "runtime": {
+          "DrawCoins_result.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DrawCoins_result/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

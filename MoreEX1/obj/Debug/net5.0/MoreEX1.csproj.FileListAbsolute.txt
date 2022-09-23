@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\bin\Debug\net5.0\MoreEX1.exe
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\bin\Debug\net5.0\MoreEX1.deps.json
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\bin\Debug\net5.0\MoreEX1.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\bin\Debug\net5.0\MoreEX1.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\bin\Debug\net5.0\MoreEX1.dll
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\bin\Debug\net5.0\MoreEX1.pdb
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\MoreEX1.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\MoreEX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\MoreEX1.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\MoreEX1.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\MoreEX1.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\MoreEX1.dll
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\refint\MoreEX1.dll
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\MoreEX1.pdb
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\MoreEX1.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\MoreEX1\obj\Debug\net5.0\ref\MoreEX1.dll

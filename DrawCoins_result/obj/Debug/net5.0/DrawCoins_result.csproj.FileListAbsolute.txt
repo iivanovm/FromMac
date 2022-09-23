@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\bin\Debug\net5.0\DrawCoins_result.exe
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\bin\Debug\net5.0\DrawCoins_result.deps.json
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\bin\Debug\net5.0\DrawCoins_result.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\bin\Debug\net5.0\DrawCoins_result.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\bin\Debug\net5.0\DrawCoins_result.dll
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\bin\Debug\net5.0\DrawCoins_result.pdb
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\DrawCoins_result.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\DrawCoins_result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\DrawCoins_result.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\DrawCoins_result.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\DrawCoins_result.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\DrawCoins_result.dll
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\refint\DrawCoins_result.dll
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\DrawCoins_result.pdb
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\DrawCoins_result.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\DrawCoins_result\obj\Debug\net5.0\ref\DrawCoins_result.dll

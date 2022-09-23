@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\bin\Debug\net5.0\L2FUND.exe
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\bin\Debug\net5.0\L2FUND.deps.json
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\bin\Debug\net5.0\L2FUND.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\bin\Debug\net5.0\L2FUND.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\bin\Debug\net5.0\L2FUND.dll
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\bin\Debug\net5.0\L2FUND.pdb
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\L2FUND.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\L2FUND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\L2FUND.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\L2FUND.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\L2FUND.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\L2FUND.dll
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\refint\L2FUND.dll
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\L2FUND.pdb
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\L2FUND.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\L2FUND\obj\Debug\net5.0\ref\L2FUND.dll

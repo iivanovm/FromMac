@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\bin\Debug\net5.0\L3FUND.exe
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\bin\Debug\net5.0\L3FUND.deps.json
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\bin\Debug\net5.0\L3FUND.runtimeconfig.json
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\bin\Debug\net5.0\L3FUND.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\bin\Debug\net5.0\L3FUND.dll
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\bin\Debug\net5.0\L3FUND.pdb
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\L3FUND.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\L3FUND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\L3FUND.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\L3FUND.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\L3FUND.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\L3FUND.dll
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\refint\L3FUND.dll
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\L3FUND.pdb
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\L3FUND.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Csoftuni\L3FUND\obj\Debug\net5.0\ref\L3FUND.dll

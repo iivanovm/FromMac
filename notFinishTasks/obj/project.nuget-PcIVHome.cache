@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+DZcVwvkLxpdkFa8wngqMpoNPG+9NHSxDoIv5C0C/mxO+4rwSuG7+RpX81DD3BPAoicI4Cgee6L4uG8RYhTmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Csoftuni\\notFinishTasks\\notFinishTasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
