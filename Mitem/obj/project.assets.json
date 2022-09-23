@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/Mitem/Mitem.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/Mitem/Mitem.csproj",
       "projectName": "Mitem",
-      "projectPath": "/Users/wizard/FromGitHub/sf/Mitem/Mitem.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/Mitem/Mitem.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/Mitem/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/Mitem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

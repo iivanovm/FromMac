@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/DictTest/DictTest.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/DictTest/DictTest.csproj",
       "projectName": "DictTest",
-      "projectPath": "/Users/wizard/FromGitHub/sf/DictTest/DictTest.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/DictTest/DictTest.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/DictTest/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/DictTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

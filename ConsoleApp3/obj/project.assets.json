@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/ConsoleApp3/L1.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/ConsoleApp3/L1.csproj",
       "projectName": "L1",
-      "projectPath": "/Users/wizard/FromGitHub/sf/ConsoleApp3/L1.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/ConsoleApp3/L1.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/ConsoleApp3/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/ConsoleApp3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

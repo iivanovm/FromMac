@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gGbRJVf7TPvYMg4HmyH7f+NnPoG40+XTICM/hmBufo62mwvu/5Cv6jn3d2LSXRRnhuf2zEvlqL1wNnCmIBviYA==",
+  "dgSpecHash": "I1p+c6RXp25/fxiMT7gPP3JsTT9MqfbznuVP9aUd5fx8MLb47ATsE+U1t9dwkN2WH1AK1kqCVbzgUgLpVSUOYg==",
   "success": true,
-  "projectFilePath": "/Users/wizard/FromGitHub/sf/MoreEX5/MoreEX5.csproj",
+  "projectFilePath": "/Users/wizard/FromGitHub/FromMac/1/MoreEX5/MoreEX5.csproj",
   "expectedPackageFiles": [
     "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

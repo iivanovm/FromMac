@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/l51/l51.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/l51/l51.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/l51/l51.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/l51/l51.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/l51/l51.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/l51/l51.csproj",
         "projectName": "l51",
-        "projectPath": "/Users/wizard/FromGitHub/sf/l51/l51.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/l51/l51.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/l51/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/l51/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/Graduation/Graduation.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/Graduation/Graduation.csproj",
       "projectName": "Graduation",
-      "projectPath": "/Users/wizard/FromGitHub/sf/Graduation/Graduation.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/Graduation/Graduation.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/Graduation/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/Graduation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

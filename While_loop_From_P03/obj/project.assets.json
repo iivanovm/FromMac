@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/While_loop_From_P03/While_loop_From_P03.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/While_loop_From_P03/While_loop_From_P03.csproj",
       "projectName": "While_loop_From_P03",
-      "projectPath": "/Users/wizard/FromGitHub/sf/While_loop_From_P03/While_loop_From_P03.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/While_loop_From_P03/While_loop_From_P03.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/While_loop_From_P03/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/While_loop_From_P03/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

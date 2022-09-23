@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "spKFgwn0ORYejV5PZ82hyuA2Q14b27By6s53P00xEbsS6M7KabdKPneawK2yST6t+oIAYDg0UlCxfst5AGysjw==",
+  "dgSpecHash": "nfPGmFOot/5fErUocEUXncCwwEVaDjVMqZox4Sd9h/1xSxP12qKT3wutJxx6ZRS+mN3j1A3SS5IDSirdh+ZSDA==",
   "success": true,
-  "projectFilePath": "/Users/wizard/FromGitHub/sf/MB_LOOP/MB_LOOP.csproj",
+  "projectFilePath": "/Users/wizard/FromGitHub/FromMac/1/MB_LOOP/MB_LOOP.csproj",
   "expectedPackageFiles": [
     "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

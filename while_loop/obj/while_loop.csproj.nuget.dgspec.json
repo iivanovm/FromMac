@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/while_loop/while_loop.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/while_loop/while_loop.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/while_loop/while_loop.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/while_loop/while_loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/while_loop/while_loop.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/while_loop/while_loop.csproj",
         "projectName": "while_loop",
-        "projectPath": "/Users/wizard/FromGitHub/sf/while_loop/while_loop.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/while_loop/while_loop.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/while_loop/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/while_loop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

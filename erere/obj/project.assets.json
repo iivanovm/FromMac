@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/erere/erere.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/erere/erere.csproj",
       "projectName": "erere",
-      "projectPath": "/Users/wizard/FromGitHub/sf/erere/erere.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/erere/erere.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/erere/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/erere/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

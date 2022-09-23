@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/L2FUND/L2FUND.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/L2FUND/L2FUND.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/L2FUND/L2FUND.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/L2FUND/L2FUND.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/L2FUND/L2FUND.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/L2FUND/L2FUND.csproj",
         "projectName": "L2FUND",
-        "projectPath": "/Users/wizard/FromGitHub/sf/L2FUND/L2FUND.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/L2FUND/L2FUND.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/L2FUND/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/L2FUND/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

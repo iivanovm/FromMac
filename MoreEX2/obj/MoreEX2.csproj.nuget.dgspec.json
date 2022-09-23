@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/MoreEX2/MoreEX2.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/MoreEX2/MoreEX2.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/MoreEX2/MoreEX2.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/MoreEX2/MoreEX2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/MoreEX2/MoreEX2.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/MoreEX2/MoreEX2.csproj",
         "projectName": "MoreEX2",
-        "projectPath": "/Users/wizard/FromGitHub/sf/MoreEX2/MoreEX2.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/MoreEX2/MoreEX2.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/MoreEX2/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/MoreEX2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

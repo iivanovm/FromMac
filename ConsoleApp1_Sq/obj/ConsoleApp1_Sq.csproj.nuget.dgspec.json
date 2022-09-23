@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/ConsoleApp1_Sq/ConsoleApp1_Sq.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/ConsoleApp1_Sq/ConsoleApp1_Sq.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/ConsoleApp1_Sq/ConsoleApp1_Sq.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/ConsoleApp1_Sq/ConsoleApp1_Sq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/ConsoleApp1_Sq/ConsoleApp1_Sq.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/ConsoleApp1_Sq/ConsoleApp1_Sq.csproj",
         "projectName": "ConsoleApp1_Sq",
-        "projectPath": "/Users/wizard/FromGitHub/sf/ConsoleApp1_Sq/ConsoleApp1_Sq.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/ConsoleApp1_Sq/ConsoleApp1_Sq.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/ConsoleApp1_Sq/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/ConsoleApp1_Sq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

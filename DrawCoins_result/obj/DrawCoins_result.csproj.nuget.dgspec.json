@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/DrawCoins_result/DrawCoins_result.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/DrawCoins_result/DrawCoins_result.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/DrawCoins_result/DrawCoins_result.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/DrawCoins_result/DrawCoins_result.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/DrawCoins_result/DrawCoins_result.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/DrawCoins_result/DrawCoins_result.csproj",
         "projectName": "DrawCoins_result",
-        "projectPath": "/Users/wizard/FromGitHub/sf/DrawCoins_result/DrawCoins_result.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/DrawCoins_result/DrawCoins_result.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/DrawCoins_result/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/DrawCoins_result/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

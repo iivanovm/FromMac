@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/notFinishTasks/notFinishTasks.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/notFinishTasks/notFinishTasks.csproj",
       "projectName": "notFinishTasks",
-      "projectPath": "/Users/wizard/FromGitHub/sf/notFinishTasks/notFinishTasks.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/notFinishTasks/notFinishTasks.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/notFinishTasks/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/notFinishTasks/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

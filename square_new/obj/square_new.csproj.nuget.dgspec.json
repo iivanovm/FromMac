@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/square_new/square_new.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/square_new/square_new.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/square_new/square_new.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/square_new/square_new.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/square_new/square_new.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/square_new/square_new.csproj",
         "projectName": "square_new",
-        "projectPath": "/Users/wizard/FromGitHub/sf/square_new/square_new.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/square_new/square_new.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/square_new/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/square_new/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

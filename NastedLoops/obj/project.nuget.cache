@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MioNt/lDE3SnovFEHUeSsTL3OYZenjbA+Y85vLhFCOalOwEh/1kvlQaNb5PyM/ttsJBCcqgHs9mZGG2Cl9qRNA==",
+  "dgSpecHash": "xsl0xv3yWr3UZCmjrriVDX+8ZnyNKF+vT6cbwzwbcFsi7wT1bGsa9W/KqUliIzsYNInMLw+PVy022NVgg5x5aA==",
   "success": true,
-  "projectFilePath": "/Users/wizard/FromGitHub/sf/NastedLoops/NastedLoops.csproj",
+  "projectFilePath": "/Users/wizard/FromGitHub/FromMac/1/NastedLoops/NastedLoops.csproj",
   "expectedPackageFiles": [
     "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

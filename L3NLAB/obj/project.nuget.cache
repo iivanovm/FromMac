@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iVbHqd3w0zZQnaPiOHsoEuHLftiWEXYQXXgz4csf9YLoxBC/RKh/LhpKyrdrsSCNLw4iT5iv8RfPVlPsuAK26A==",
+  "dgSpecHash": "l2+CNEFhl4vpFOc90/iVd/OWJ5GmgBMpMVlO2RENOQ2CZEiCpmw+87XGfO2mq6aueo2Aoco4qt6Nre7+ZZmmpQ==",
   "success": true,
-  "projectFilePath": "/Users/wizard/FromGitHub/sf/L3NLAB/L3NLAB.csproj",
+  "projectFilePath": "/Users/wizard/FromGitHub/FromMac/1/L3NLAB/L3NLAB.csproj",
   "expectedPackageFiles": [
     "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

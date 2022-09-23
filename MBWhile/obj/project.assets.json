@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/MBWhile/MBWhile.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/MBWhile/MBWhile.csproj",
       "projectName": "MBWhile",
-      "projectPath": "/Users/wizard/FromGitHub/sf/MBWhile/MBWhile.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/MBWhile/MBWhile.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/MBWhile/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/MBWhile/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

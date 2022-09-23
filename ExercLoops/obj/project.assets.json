@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/ExercLoops/ExercLoops.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/ExercLoops/ExercLoops.csproj",
       "projectName": "ExercLoops",
-      "projectPath": "/Users/wizard/FromGitHub/sf/ExercLoops/ExercLoops.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/ExercLoops/ExercLoops.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/ExercLoops/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/ExercLoops/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

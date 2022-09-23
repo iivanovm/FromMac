@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4530U758P0lilG8PzMXYy2HeBtn4hWOQe12ZTjJufHQWm2O9Ho2tFcraCVlHRVYcZ8VvzCKp8/FVhcEjnDT8qg==",
+  "dgSpecHash": "XYCsGOj2lT02bc9Tw1mFyJ5hEGiXSBz6z1j55/penklj2nPq1BtZwIS2uWUHLYDDgRVGnYS4IGmJLrS/K+Uyug==",
   "success": true,
-  "projectFilePath": "/Users/wizard/FromGitHub/sf/SafePasswordsGenerator/SafePasswordsGenerator.csproj",
+  "projectFilePath": "/Users/wizard/FromGitHub/FromMac/1/SafePasswordsGenerator/SafePasswordsGenerator.csproj",
   "expectedPackageFiles": [
     "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

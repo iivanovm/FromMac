@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4fOmYv0s95AOG8IzEaG+IN6NOhYFHfio0OfGsQAGqInYFODxOGXNrWJlrGUf22ncV16glfLVum/mPT43ShmLFw==",
+  "dgSpecHash": "UDLYZbRr66bq03jxyOX1RR/YF8I55NNu++G8IscC9VYstUFsiFinvK3gBWVQLxYiwWBl39FiXWifx2d3Q4+6QQ==",
   "success": true,
-  "projectFilePath": "/Users/wizard/FromGitHub/sf/NestetLoops_Exerc/NestetLoops_Exerc.csproj",
+  "projectFilePath": "/Users/wizard/FromGitHub/FromMac/1/NestetLoops_Exerc/NestetLoops_Exerc.csproj",
   "expectedPackageFiles": [
     "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

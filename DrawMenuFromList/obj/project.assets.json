@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/DrawMenuFromList/DrawMenuFromList.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/DrawMenuFromList/DrawMenuFromList.csproj",
       "projectName": "DrawMenuFromList",
-      "projectPath": "/Users/wizard/FromGitHub/sf/DrawMenuFromList/DrawMenuFromList.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/DrawMenuFromList/DrawMenuFromList.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/DrawMenuFromList/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/DrawMenuFromList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

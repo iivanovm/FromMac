@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/MyFirstApp/MyFirstApp.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/MyFirstApp/MyFirstApp.csproj",
       "projectName": "MyFirstApp",
-      "projectPath": "/Users/wizard/FromGitHub/sf/MyFirstApp/MyFirstApp.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/MyFirstApp/MyFirstApp.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/MyFirstApp/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/MyFirstApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

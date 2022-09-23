@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/L34/L34.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/L34/L34.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/L34/L34.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/L34/L34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/L34/L34.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/L34/L34.csproj",
         "projectName": "L34",
-        "projectPath": "/Users/wizard/FromGitHub/sf/L34/L34.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/L34/L34.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/L34/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/L34/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

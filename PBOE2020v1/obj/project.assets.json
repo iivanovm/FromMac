@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/PBOE2020v1/PBOE2020v1.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/PBOE2020v1/PBOE2020v1.csproj",
       "projectName": "PBOE2020v1",
-      "projectPath": "/Users/wizard/FromGitHub/sf/PBOE2020v1/PBOE2020v1.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/PBOE2020v1/PBOE2020v1.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/PBOE2020v1/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/PBOE2020v1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

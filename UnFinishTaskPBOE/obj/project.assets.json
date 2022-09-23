@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/UnFinishTaskPBOE/UnFinishTaskPBOE.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/UnFinishTaskPBOE/UnFinishTaskPBOE.csproj",
       "projectName": "UnFinishTaskPBOE",
-      "projectPath": "/Users/wizard/FromGitHub/sf/UnFinishTaskPBOE/UnFinishTaskPBOE.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/UnFinishTaskPBOE/UnFinishTaskPBOE.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/UnFinishTaskPBOE/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/UnFinishTaskPBOE/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

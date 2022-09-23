@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6j4wgNU7aiptPtf6rKVkLaVAUcn12OXgmoEFmX0gw+R3t+iQCpS6zg5/TbvTUqqxtmDBLkmLRdiHueXcPYpUyg==",
+  "dgSpecHash": "wlUj4f2sUR7E23HkZo5AD0oGlcLXm5yhSE8NPuRjafIH3lsNLxYFMESAr6zGiGI8W7kgP4tbfPs8n4PTT5u7KA==",
   "success": true,
-  "projectFilePath": "/Users/wizard/FromGitHub/sf/DrawMenuFromList/DrawMenuFromList.csproj",
+  "projectFilePath": "/Users/wizard/FromGitHub/FromMac/1/DrawMenuFromList/DrawMenuFromList.csproj",
   "expectedPackageFiles": [
     "/Users/wizard/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/wizard/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

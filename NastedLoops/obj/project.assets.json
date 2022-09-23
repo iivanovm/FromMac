@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/NastedLoops/NastedLoops.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/NastedLoops/NastedLoops.csproj",
       "projectName": "NastedLoops",
-      "projectPath": "/Users/wizard/FromGitHub/sf/NastedLoops/NastedLoops.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/NastedLoops/NastedLoops.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/NastedLoops/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/NastedLoops/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

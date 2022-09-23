@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/fromMAC/fromMAC.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/fromMAC/fromMAC.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/fromMAC/fromMAC.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/fromMAC/fromMAC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/fromMAC/fromMAC.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/fromMAC/fromMAC.csproj",
         "projectName": "fromMAC",
-        "projectPath": "/Users/wizard/FromGitHub/sf/fromMAC/fromMAC.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/fromMAC/fromMAC.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/fromMAC/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/fromMAC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/L3NLAB/L3NLAB.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/L3NLAB/L3NLAB.csproj",
       "projectName": "L3NLAB",
-      "projectPath": "/Users/wizard/FromGitHub/sf/L3NLAB/L3NLAB.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/L3NLAB/L3NLAB.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/L3NLAB/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/L3NLAB/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/Loops_MB/Loops_MB.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/Loops_MB/Loops_MB.csproj",
       "projectName": "Loops_MB",
-      "projectPath": "/Users/wizard/FromGitHub/sf/Loops_MB/Loops_MB.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/Loops_MB/Loops_MB.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/Loops_MB/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/Loops_MB/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

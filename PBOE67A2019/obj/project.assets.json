@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/PBOE67A2019/PBOE67A2019.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/PBOE67A2019/PBOE67A2019.csproj",
       "projectName": "PBOE67A2019",
-      "projectPath": "/Users/wizard/FromGitHub/sf/PBOE67A2019/PBOE67A2019.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/PBOE67A2019/PBOE67A2019.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/PBOE67A2019/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/PBOE67A2019/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

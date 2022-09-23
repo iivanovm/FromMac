@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wizard/FromGitHub/sf/NestetLoops_Exerc/NestetLoops_Exerc.csproj",
+      "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/NestetLoops_Exerc/NestetLoops_Exerc.csproj",
       "projectName": "NestetLoops_Exerc",
-      "projectPath": "/Users/wizard/FromGitHub/sf/NestetLoops_Exerc/NestetLoops_Exerc.csproj",
+      "projectPath": "/Users/wizard/FromGitHub/FromMac/1/NestetLoops_Exerc/NestetLoops_Exerc.csproj",
       "packagesPath": "/Users/wizard/.nuget/packages/",
-      "outputPath": "/Users/wizard/FromGitHub/sf/NestetLoops_Exerc/obj/",
+      "outputPath": "/Users/wizard/FromGitHub/FromMac/1/NestetLoops_Exerc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wizard/.nuget/NuGet/NuGet.Config"

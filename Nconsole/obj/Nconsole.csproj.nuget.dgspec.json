@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/Nconsole/Nconsole.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/Nconsole/Nconsole.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/Nconsole/Nconsole.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/Nconsole/Nconsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/Nconsole/Nconsole.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/Nconsole/Nconsole.csproj",
         "projectName": "Nconsole",
-        "projectPath": "/Users/wizard/FromGitHub/sf/Nconsole/Nconsole.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/Nconsole/Nconsole.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/Nconsole/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/Nconsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"

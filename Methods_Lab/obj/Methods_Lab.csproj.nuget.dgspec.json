@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wizard/FromGitHub/sf/Methods_Lab/Methods_Lab.csproj": {}
+    "/Users/wizard/FromGitHub/FromMac/1/Methods_Lab/Methods_Lab.csproj": {}
   },
   "projects": {
-    "/Users/wizard/FromGitHub/sf/Methods_Lab/Methods_Lab.csproj": {
+    "/Users/wizard/FromGitHub/FromMac/1/Methods_Lab/Methods_Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wizard/FromGitHub/sf/Methods_Lab/Methods_Lab.csproj",
+        "projectUniqueName": "/Users/wizard/FromGitHub/FromMac/1/Methods_Lab/Methods_Lab.csproj",
         "projectName": "Methods_Lab",
-        "projectPath": "/Users/wizard/FromGitHub/sf/Methods_Lab/Methods_Lab.csproj",
+        "projectPath": "/Users/wizard/FromGitHub/FromMac/1/Methods_Lab/Methods_Lab.csproj",
         "packagesPath": "/Users/wizard/.nuget/packages/",
-        "outputPath": "/Users/wizard/FromGitHub/sf/Methods_Lab/obj/",
+        "outputPath": "/Users/wizard/FromGitHub/FromMac/1/Methods_Lab/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wizard/.nuget/NuGet/NuGet.Config"
