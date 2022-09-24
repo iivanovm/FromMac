@@ -1,19 +1,21 @@
-﻿<Properties StartupConfiguration="{BA724E7B-9B98-4AA7-AC48-E6F260A18B9F}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{7AB038B7-D1DD-4C22-916A-9CDD2EBBA6E4}|Default">
+  <MonoDevelop.Ide.ItemProperties.ForHomePC.L1.MyFirstApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="ListTry/Program.cs">
     <Files>
-      <File FileName="ListTry/Program.cs" Line="131" Column="11" />
+      <File FileName="ListTry/Program.cs" Line="160" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Csoftuni" expanded="True">
-            <Node name="Fundamentals" expanded="True">
-              <Node name="ListTry" expanded="True">
-                <Node name="Program.cs" selected="True" />
+            <Node name="ForHomePC" expanded="True">
+              <Node name="L1" expanded="True">
+                <Node name="MyFirstApp" expanded="True" />
               </Node>
+            </Node>
+            <Node name="Fundamentals" expanded="True">
+              <Node name="ListTry" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -23,8 +25,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ForHomePC.L1.MyFirstApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Fundamentals.ListTry PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
