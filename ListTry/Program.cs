@@ -116,19 +116,22 @@ namespace ListTry
         public static void ListManipulationBasics()
         {
             List<int> printNum = Console.ReadLine().Split().Select(int.Parse).ToList();
-            string command ;
-            while ((command= Console.ReadLine()) != "end")
+            string input = Console.ReadLine();
+            string[] command = input.Split();
+            while (command[0] != "end")
             {
-                switch (command)
+                switch (command[0])
                 {
-                    case "Add": int a = int.Parse(Console.ReadLine());printNum.Add(a);break;
-                    case "Remove": int b = int.Parse(Console.ReadLine()); printNum.Remove(b); break;
-                    case "RemoveAt": int c = int.Parse(Console.ReadLine()); printNum.RemoveAt(c); break;
-                    case "Insert": int d = int.Parse(Console.ReadLine()); int e = int.Parse(Console.ReadLine()); printNum.Insert(d,e); break;
+                    case "Add": int a = int.Parse(command[1]);printNum.Add(a) ; break;
+                    case "Remove": int b = int.Parse(command[1]); printNum.Remove(b); break;
+                    case "RemoveAt": int c = int.Parse(command[1]); printNum.RemoveAt(c); break;
+                        case "Insert": int d = int.Parse(command[1]); int e = int.Parse(command[2]); printNum.Insert(e,d); break;
                     default:;break;
                 }
+                input = Console.ReadLine();
+                command = input.Split();
             }
-          
+            Console.WriteLine(String.Join(" ",printNum));
         }
     }
 }
