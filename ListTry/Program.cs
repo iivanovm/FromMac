@@ -140,22 +140,26 @@ namespace ListTry
             List<int> modnumbers = new List<int>();
             string command = Console.ReadLine();
             string[] scommand = command.Split();
+            string result = string.Empty;
             while (scommand[0] != "end")
             {
+                modnumbers = numbers;
+                result = string.Empty;
                 switch (scommand[0])
                 {
+                   
                     case "Contains": int a = int.Parse(scommand[1]); Console.WriteLine(numbers.Contains(a) ? "Yes" : "No such number"); break;
-                    case "PrintEven": foreach (int n in numbers) { if (n % 2 == 0) { modnumbers.Add(n); } } Console.WriteLine(String.Join(" ", modnumbers)); break;
-                    case "PrintOdd": foreach (int n in numbers) { if (n % 2 != 0) { modnumbers.Add(n); } } Console.WriteLine(String.Join(" ", modnumbers)); break;
+                    case "PrintEven": foreach (int n in numbers) { if (n % 2 == 0) { } };Console.WriteLine(result); break;
+                    case "PrintOdd": foreach (int n in numbers) { if (n % 2 != 0) { modnumbers.Add(n); } }; Console.WriteLine(string.Join(" ",modnumbers)); break;
                     case "GetSum": Console.WriteLine(numbers.Sum()); break;
                     case "Filter": string b = scommand[1].ToString(); int c = int.Parse(scommand[2]);
                         switch (scommand[1].ToString())
                         {
                             //'<', '>', ">=", "<="
-                            case "<": foreach(int n in numbers) { if (n < int.Parse(scommand[2])) { modnumbers.Add(n); } } Console.WriteLine(String.Join(" ", modnumbers)); break;
-                            case ">": foreach (int n in numbers) { if (n > int.Parse(scommand[2])) { modnumbers.Add(n); } } Console.WriteLine(String.Join(" ", modnumbers)); break;
-                            case ">=": foreach (int n in numbers) { if (n >= int.Parse(scommand[2])) { modnumbers.Add(n); } } Console.WriteLine(String.Join(" ", modnumbers)); break;
-                            case "<=": foreach (int n in numbers) { if (n <= int.Parse(scommand[2])) { modnumbers.Add(n); } } Console.WriteLine(String.Join(" ", modnumbers)); break;
+                            case "<": foreach(int n in numbers) { if (n < int.Parse(scommand[2])) { Console.Write(string.Join(" ", n)); } }; break;
+                            case ">": foreach (int n in numbers) { if (n > int.Parse(scommand[2])) { Console.Write(string.Join(" ", n)); } }; break;
+                            case ">=": foreach (int n in numbers) { if (n >= int.Parse(scommand[2])) { Console.Write(string.Join(" ", n)); } }; break;
+                            case "<=": foreach (int n in numbers) { if (n <= int.Parse(scommand[2])) { Console.Write(string.Join(" ", n)); } }; break;
                         };break;
                     default:;break;
                 }
