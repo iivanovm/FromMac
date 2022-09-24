@@ -128,7 +128,7 @@ namespace ListTry
                     default:;break;
                 }
             }
-            Console.WriteLine(String.Join(" ",printNum));
+          
         }
     }
 }
