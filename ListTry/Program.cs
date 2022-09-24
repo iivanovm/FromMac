@@ -125,7 +125,7 @@ namespace ListTry
                     case "Add": int a = int.Parse(command[1]);printNum.Add(a) ; break;
                     case "Remove": int b = int.Parse(command[1]); printNum.Remove(b); break;
                     case "RemoveAt": int c = int.Parse(command[1]); printNum.RemoveAt(c); break;
-                        case "Insert": int d = int.Parse(command[1]); int e = int.Parse(command[2]); printNum.Insert(e,d); break;
+                    case "Insert": int d = int.Parse(command[1]); int e = int.Parse(command[2]); printNum.Insert(e,d); break;
                     default:;break;
                 }
                 input = Console.ReadLine();
@@ -137,34 +137,47 @@ namespace ListTry
         public static void ListManipulationAdvanced()
         {
             List<int> numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
-            List<int> modnumbers = new List<int>();
             string command = Console.ReadLine();
             string[] scommand = command.Split();
             string result = string.Empty;
+            bool isChange = false;
             while (scommand[0] != "end")
             {
-                modnumbers = numbers;
                 result = string.Empty;
                 switch (scommand[0])
                 {
-                   
+                    case "Add": int d = int.Parse(scommand[1]); numbers.Add(d);
+                        isChange = true; break;
+                    case "Remove": int e = int.Parse(scommand[1]); numbers.Remove(e);
+                        isChange = true; break;
+                    case "RemoveAt": int f = int.Parse(scommand[1]); numbers.RemoveAt(f);
+                        isChange = true; break;
+                    case "Insert": int i = int.Parse(scommand[1]); int j = int.Parse(scommand[2]); numbers.Insert(j, i);
+                        isChange = true; break;
                     case "Contains": int a = int.Parse(scommand[1]); Console.WriteLine(numbers.Contains(a) ? "Yes" : "No such number"); break;
-                    case "PrintEven": foreach (int n in numbers) { if (n % 2 == 0) { } };Console.WriteLine(result); break;
-                    case "PrintOdd": foreach (int n in numbers) { if (n % 2 != 0) { modnumbers.Add(n); } }; Console.WriteLine(string.Join(" ",modnumbers)); break;
-                    case "GetSum": Console.WriteLine(numbers.Sum()); break;
-                    case "Filter": string b = scommand[1].ToString(); int c = int.Parse(scommand[2]);
+                    case "PrintEven": List<int> ev = new List<int>(); foreach (int n in numbers) { if (n % 2 == 0) ev.Add(n);} ; Console.WriteLine(String.Join(" ",ev));break;
+                    case "PrintOdd":List<int> odd = new List<int>(); foreach (int n in numbers) { if (n % 2 != 0)  odd.Add(n);}; Console.WriteLine(String.Join(" ",odd)); break;
+                    case "GetSum": Console.WriteLine(numbers.Sum());break;
+                    case "Filter":
+                        List<int> novFilter = new List<int>();
+                        string b = scommand[1].ToString(); int c = int.Parse(scommand[2]);
                         switch (scommand[1].ToString())
                         {
                             //'<', '>', ">=", "<="
-                            case "<": foreach(int n in numbers) { if (n < int.Parse(scommand[2])) { Console.Write(string.Join(" ", n)); } }; break;
-                            case ">": foreach (int n in numbers) { if (n > int.Parse(scommand[2])) { Console.Write(string.Join(" ", n)); } }; break;
-                            case ">=": foreach (int n in numbers) { if (n >= int.Parse(scommand[2])) { Console.Write(string.Join(" ", n)); } }; break;
-                            case "<=": foreach (int n in numbers) { if (n <= int.Parse(scommand[2])) { Console.Write(string.Join(" ", n)); } }; break;
+                            case "<": foreach (int n in numbers) { if (n < int.Parse(scommand[2])) { novFilter.Add(n); } }; Console.WriteLine(String.Join(" ",novFilter)); break;
+                            case ">": foreach (int n in numbers) { if (n > int.Parse(scommand[2])) { novFilter.Add(n); } }; Console.WriteLine(String.Join(" ", novFilter)); break;
+                            case ">=": foreach (int n in numbers) { if (n >= int.Parse(scommand[2])) { novFilter.Add(n); } }; Console.WriteLine(String.Join(" ", novFilter)); break;
+                            case "<=": foreach (int n in numbers) { if (n <= int.Parse(scommand[2])) { novFilter.Add(n); } }; Console.WriteLine(String.Join(" ", novFilter)); break;
                         };break;
-                    default:;break;
+                    default:; break;
                 }
                 command = Console.ReadLine();
                 scommand = command.Split();
+            }
+
+            if (isChange)
+            {
+                Console.WriteLine(String.Join(" ",numbers));
             }
         }
     }

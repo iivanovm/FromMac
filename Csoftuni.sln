@@ -9,67 +9,67 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1_Sq", "ConsoleAp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ForHomePC", "ForHomePC", "{CF840CCA-2514-4E6B-86EF-C5C53B5E5C02}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\t2\t2", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\t2\t2.csproj", "{56FFD61E-8CD7-45C9-8E84-38BE81104511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t2", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\t2\t2.csproj", "{56FFD61E-8CD7-45C9-8E84-38BE81104511}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\CalcSum\CalcSum", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\CalcSum\CalcSum.csproj", "{8DC3A6C8-B7BF-4CF3-B156-9E5059FBDF18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcSum", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\CalcSum\CalcSum.csproj", "{8DC3A6C8-B7BF-4CF3-B156-9E5059FBDF18}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\ConsoleApp1\ConsoleApp1", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\ConsoleApp1\ConsoleApp1.csproj", "{142E7BC6-03AB-44EE-8161-C47E5DB219FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\ConsoleApp1\ConsoleApp1.csproj", "{142E7BC6-03AB-44EE-8161-C47E5DB219FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\ConsoleApp1_sqn\ConsoleApp1_sqn", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\ConsoleApp1_sqn\ConsoleApp1_sqn.csproj", "{1C5FAF83-C6FB-4E5A-82E4-7898971DF27D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1_sqn", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\ConsoleApp1_sqn\ConsoleApp1_sqn.csproj", "{1C5FAF83-C6FB-4E5A-82E4-7898971DF27D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\ConsoleApp2\ConsoleApp2", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\ConsoleApp2\ConsoleApp2.csproj", "{2F8638F9-956C-462B-AAC1-2B5F117D9694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\ConsoleApp2\ConsoleApp2.csproj", "{2F8638F9-956C-462B-AAC1-2B5F117D9694}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\Convert\Convert", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Convert\Convert.csproj", "{26DD4933-D54E-460D-AAFF-851B7FC97C0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Convert\Convert.csproj", "{26DD4933-D54E-460D-AAFF-851B7FC97C0E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\ConvertMtoany\ConvertMtoany", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\ConvertMtoany\ConvertMtoany.csproj", "{7A22B365-BE0C-4314-AFDF-F0E89C0A3B06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertMtoany", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\ConvertMtoany\ConvertMtoany.csproj", "{7A22B365-BE0C-4314-AFDF-F0E89C0A3B06}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\Currency___\Currency___", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Currency___\Currency___.csproj", "{7AD8B004-DE75-475A-902F-07FB0BCFA2A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Currency___", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Currency___\Currency___.csproj", "{7AD8B004-DE75-475A-902F-07FB0BCFA2A2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\DataTadd\DataTadd", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\DataTadd\DataTadd.csproj", "{F7A65367-37FB-408B-A7EC-77AD9F4D0918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTadd", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\DataTadd\DataTadd.csproj", "{F7A65367-37FB-408B-A7EC-77AD9F4D0918}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\DifferenceHelloWorld\DifferenceHelloWorld", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\DifferenceHelloWorld\DifferenceHelloWorld.csproj", "{8686BE7E-C872-4435-B3B0-3ACF69476B39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DifferenceHelloWorld", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\DifferenceHelloWorld\DifferenceHelloWorld.csproj", "{8686BE7E-C872-4435-B3B0-3ACF69476B39}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\HelloScharp\HelloScharp", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\HelloScharp\HelloScharp.csproj", "{D8666B85-2920-40EA-BE37-B7D1819DB006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloScharp", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\HelloScharp\HelloScharp.csproj", "{D8666B85-2920-40EA-BE37-B7D1819DB006}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\HWr_array\HWr_array", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\HWr_array\HWr_array.csproj", "{1B313D36-D258-4EA3-A279-9F342DEBBCE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWr_array", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\HWr_array\HWr_array.csproj", "{1B313D36-D258-4EA3-A279-9F342DEBBCE7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\newtest\newtest", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\newtest\newtest.csproj", "{64FF85C1-2353-484C-8E82-CEF9E317054A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "newtest", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\newtest\newtest.csproj", "{64FF85C1-2353-484C-8E82-CEF9E317054A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\Num1to20\Num1to20", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Num1to20\Num1to20.csproj", "{DA81B5F7-6503-4D06-9E31-D0761984F680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Num1to20", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Num1to20\Num1to20.csproj", "{DA81B5F7-6503-4D06-9E31-D0761984F680}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\Numfromonetonine\Numfromonetonine", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Numfromonetonine\Numfromonetonine.csproj", "{0C18FFDC-EDB4-4726-B8A5-9070889E2F12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numfromonetonine", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Numfromonetonine\Numfromonetonine.csproj", "{0C18FFDC-EDB4-4726-B8A5-9070889E2F12}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\Pipes In Pool\Pipes In Pool", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Pipes In Pool\Pipes In Pool.csproj", "{C83577FE-EA01-4FA0-B4C8-7465DCD72114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pipes In Pool", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\Pipes In Pool\Pipes In Pool.csproj", "{C83577FE-EA01-4FA0-B4C8-7465DCD72114}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\PointandRetange\PointandRetange", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\PointandRetange\PointandRetange.csproj", "{23EC238A-CD54-4BE7-A425-EC96F6E00A6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointandRetange", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\PointandRetange\PointandRetange.csproj", "{23EC238A-CD54-4BE7-A425-EC96F6E00A6D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\simpletest\simpletest", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\simpletest\simpletest.csproj", "{540B61DB-BA02-458C-ADB1-D39D1AEE6409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "simpletest", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\simpletest\simpletest.csproj", "{540B61DB-BA02-458C-ADB1-D39D1AEE6409}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\square_n\square_n", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\square_n\square_n.csproj", "{EC38D99A-5C26-46BA-8330-490991AE1D1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "square_n", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\square_n\square_n.csproj", "{EC38D99A-5C26-46BA-8330-490991AE1D1A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\square_new\square_new", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\square_new\square_new.csproj", "{DE9C6933-42B0-421A-9F34-87D6DA3C1F1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "square_new", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\square_new\square_new.csproj", "{DE9C6933-42B0-421A-9F34-87D6DA3C1F1E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\square_s\square_s", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\square_s\square_s.csproj", "{D5DC6FF6-E313-4884-997E-5301E9311C4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "square_s", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\square_s\square_s.csproj", "{D5DC6FF6-E313-4884-997E-5301E9311C4C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\SSCalc\calc\calc", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\calc\calc.csproj", "{DC136B21-1961-47F4-872A-C16B9DC2CB4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calc", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\calc\calc.csproj", "{DC136B21-1961-47F4-872A-C16B9DC2CB4A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\SSCalc\ConsoleReadline_\ConsoleReadline_", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\ConsoleReadline_\ConsoleReadline_.csproj", "{8A59E864-5A65-4696-BB41-6EFCEFD9337E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleReadline_", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\ConsoleReadline_\ConsoleReadline_.csproj", "{8A59E864-5A65-4696-BB41-6EFCEFD9337E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\SSCalc\Currency_COnvertor\Currency_COnvertor", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\Currency_COnvertor\Currency_COnvertor.csproj", "{95DAA51E-7B77-49BE-97F1-B00B0ADAD99A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Currency_COnvertor", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\Currency_COnvertor\Currency_COnvertor.csproj", "{95DAA51E-7B77-49BE-97F1-B00B0ADAD99A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C:\Users\Admin\OneDrive\Project\SSCalc\CurrencyConvertor\CurrencyConvertor", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\CurrencyConvertor\CurrencyConvertor.csproj", "{70118028-4E13-49B1-A10E-C55F36CFB198}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConvertor", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\CurrencyConvertor\CurrencyConvertor.csproj", "{70118028-4E13-49B1-A10E-C55F36CFB198}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\SSCalc\HelloWithRW\HelloWithRW", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\HelloWithRW\HelloWithRW.csproj", "{810967B2-C210-4F52-9854-1A482EC92E69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWithRW", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\HelloWithRW\HelloWithRW.csproj", "{810967B2-C210-4F52-9854-1A482EC92E69}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\SSCalc\Inches2CM\Inches2CM", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\Inches2CM\Inches2CM.csproj", "{79B725DF-22B1-4365-9DCA-E4E9A27FAB4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inches2CM", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\Inches2CM\Inches2CM.csproj", "{79B725DF-22B1-4365-9DCA-E4E9A27FAB4C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\SSCalc\sum\sum", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\sum\sum.csproj", "{715277CD-C36E-4BC2-8D45-6A8D99286A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sum", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\SSCalc\sum\sum.csproj", "{715277CD-C36E-4BC2-8D45-6A8D99286A7E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\sumoneofarray\sumoneofarray", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\sumoneofarray\sumoneofarray.csproj", "{9695B1BB-EF9D-4B7F-8157-CA4F854E922B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sumoneofarray", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\sumoneofarray\sumoneofarray.csproj", "{9695B1BB-EF9D-4B7F-8157-CA4F854E922B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\teest\teest", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\teest\teest.csproj", "{AE4D755A-88F7-4CEE-A4E0-2CF9F8C21CC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "teest", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\teest\teest.csproj", "{AE4D755A-88F7-4CEE-A4E0-2CF9F8C21CC7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C:\Users\Admin\OneDrive\Project\TriangleOf55Stars\TriangleOf55Stars", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\TriangleOf55Stars\TriangleOf55Stars.csproj", "{2D3DFE05-9E0A-4557-B462-283CB73274AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleOf55Stars", "Applications\Visual Studio.app\C:\Users\Admin\OneDrive\Project\TriangleOf55Stars\TriangleOf55Stars.csproj", "{2D3DFE05-9E0A-4557-B462-283CB73274AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{9207829F-7749-47E9-AFA8-BF8BA22FF1B3}"
 EndProject
@@ -193,6 +193,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreEX5", "MoreEX5\MoreEX5.csproj", "{4F7E65FF-0BB2-4703-869F-13F34C84E2E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTry", "ListTry\ListTry.csproj", "{7AB038B7-D1DD-4C22-916A-9CDD2EBBA6E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsExercise", "ListsExercise\ListsExercise.csproj", "{6E57D6EF-2691-4BDE-BBA3-C8CF36747A6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -532,6 +534,10 @@ Global
 		{7AB038B7-D1DD-4C22-916A-9CDD2EBBA6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AB038B7-D1DD-4C22-916A-9CDD2EBBA6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AB038B7-D1DD-4C22-916A-9CDD2EBBA6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E57D6EF-2691-4BDE-BBA3-C8CF36747A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E57D6EF-2691-4BDE-BBA3-C8CF36747A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E57D6EF-2691-4BDE-BBA3-C8CF36747A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E57D6EF-2691-4BDE-BBA3-C8CF36747A6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -625,6 +631,7 @@ Global
 		{972D3FAE-115E-426D-BDA6-6F82955E04CB} = {53057EFF-9E16-4BB6-8D50-D4EFB4C30BA8}
 		{4F7E65FF-0BB2-4703-869F-13F34C84E2E9} = {1AA52AEE-CA89-486C-A3B5-FF430119DFF1}
 		{7AB038B7-D1DD-4C22-916A-9CDD2EBBA6E4} = {53057EFF-9E16-4BB6-8D50-D4EFB4C30BA8}
+		{6E57D6EF-2691-4BDE-BBA3-C8CF36747A6D} = {53057EFF-9E16-4BB6-8D50-D4EFB4C30BA8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC9DE93A-A49F-4E3E-BB59-BE1AF953D603}
