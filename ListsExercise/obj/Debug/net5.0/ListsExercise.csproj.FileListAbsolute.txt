@@ -1,0 +1,16 @@
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/bin/Debug/net5.0/ListsExercise
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/bin/Debug/net5.0/ListsExercise.deps.json
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/bin/Debug/net5.0/ListsExercise.runtimeconfig.json
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/bin/Debug/net5.0/ListsExercise.runtimeconfig.dev.json
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/bin/Debug/net5.0/ListsExercise.dll
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/bin/Debug/net5.0/ListsExercise.pdb
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ListsExercise.csproj.AssemblyReference.cache
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ListsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ListsExercise.AssemblyInfoInputs.cache
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ListsExercise.AssemblyInfo.cs
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ListsExercise.csproj.CoreCompileInputs.cache
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ListsExercise.dll
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/refint/ListsExercise.dll
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ListsExercise.pdb
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ListsExercise.genruntimeconfig.cache
+/Users/wizard/FromGitHub/FromMac/1/ListsExercise/obj/Debug/net5.0/ref/ListsExercise.dll
