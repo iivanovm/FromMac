@@ -1,0 +1,16 @@
+F:\GitHubRepo\LastChngbackup\TryATM\bin\Debug\net5.0\TryATM.exe
+F:\GitHubRepo\LastChngbackup\TryATM\bin\Debug\net5.0\TryATM.deps.json
+F:\GitHubRepo\LastChngbackup\TryATM\bin\Debug\net5.0\TryATM.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\TryATM\bin\Debug\net5.0\TryATM.runtimeconfig.dev.json
+F:\GitHubRepo\LastChngbackup\TryATM\bin\Debug\net5.0\TryATM.dll
+F:\GitHubRepo\LastChngbackup\TryATM\bin\Debug\net5.0\TryATM.pdb
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\TryATM.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\TryATM.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\TryATM.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\TryATM.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\TryATM.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\TryATM.dll
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\refint\TryATM.dll
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\TryATM.pdb
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\TryATM.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\TryATM\obj\Debug\net5.0\ref\TryATM.dll
