@@ -1,0 +1,16 @@
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\PhoneBook.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\PhoneBook.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\PhoneBook.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\PhoneBook.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\PhoneBook\bin\Debug\net5.0\PhoneBook.exe
+F:\GitHubRepo\LastChngbackup\PhoneBook\bin\Debug\net5.0\PhoneBook.deps.json
+F:\GitHubRepo\LastChngbackup\PhoneBook\bin\Debug\net5.0\PhoneBook.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\PhoneBook\bin\Debug\net5.0\PhoneBook.runtimeconfig.dev.json
+F:\GitHubRepo\LastChngbackup\PhoneBook\bin\Debug\net5.0\PhoneBook.dll
+F:\GitHubRepo\LastChngbackup\PhoneBook\bin\Debug\net5.0\PhoneBook.pdb
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\PhoneBook.dll
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\refint\PhoneBook.dll
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\PhoneBook.pdb
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\PhoneBook.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\PhoneBook\obj\Debug\net5.0\ref\PhoneBook.dll
